@@ -5,6 +5,7 @@ I Backend developer from Indonesia
 📚 I'm currently learning **javascript**   
 💬 Ask me about **PHP**  
 ⛩️ Fun fact: **I like anime**
+
 🏢 founder of **minelux** Network Server
 
 ### Languages:
