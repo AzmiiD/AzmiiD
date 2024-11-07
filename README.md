@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" alt="Twitter"></a>
-  <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/discord/yourdiscordid" alt="Discord"></a>
+  <a href="https://discord.gg/azumi_z"><img src="https://img.shields.io/discord/azumi_z" alt="Discord"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
