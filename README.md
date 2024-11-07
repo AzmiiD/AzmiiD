@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adytiya 👋</h1>
 
 <p align="center">
-  <a href="https://discord.gg/azumi_z"><img src="https://img.shields.io/discord/azumi_z" alt="Discord"></a>
+  Basically, I'm a developer from Indonesia who is studying and is an expert in Minecraft development, call me if you need it
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
