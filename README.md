@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Adytiya 👋</h1>
 
 <p align="center">
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/yourdiscordlink)
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" alt="Twitter"></a>
   <a href="https://discord.gg/azumi_z"><img src="https://img.shields.io/discord/azumi_z" alt="Discord"></a>
 </p>
 
