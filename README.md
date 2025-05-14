@@ -4,7 +4,9 @@
   Basically, I'm a developer from Indonesia who is studying and is an expert in Minecraft development, call me if you need it
 </p>
 
+<p align="center">
 <img src="https://i.pinimg.com/originals/48/01/bc/4801bc9432e17d50141c691e6b2d7d07.gif"/>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
