@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/48/01/bc/4801bc9432e17d50141c691e6b2d7d07.gif"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-848.gif"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
