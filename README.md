@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Adytiya 👋</h1>
 
 <p align="center">
-  Basically, I'm a developer from Indonesia who is studying and is an expert in Minecraft development, call me if you need it
+  I'm a developer from Indonesia with a strong focus on **Minecraft server development**, especially in **plugin creation, configuration, and system optimization.
+  I enjoy working with Minecraft backend systems (Spigot, Paper, Velocity), building custom plugins, and managing VPS infrastructure using tools like Pterodactyl and SSH.
 </p>
 
 <p align="center">
