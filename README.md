@@ -26,3 +26,12 @@
 <p align="center">
   <b>“Building things that connect code, servers, and ideas.”</b>
 </p>
+
+---
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  💬 Discord: <b>azumi_z</b><br>
+  📧 Email: <a href="mailto:pundiripi@gmail.com">azmiidev@gmail.com</a>
+</p>
