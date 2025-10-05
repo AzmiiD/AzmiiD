@@ -33,5 +33,5 @@
 
 <p align="center">
   💬 Discord: <b>azumi_z</b><br>
-  📧 Email: <a href="mailto:pundiripi@gmail.com">azmiidev@gmail.com</a>
+  📧 Email: <a href="mailto:pundiripi@gmail.com">pundiripi@gmail.com</a>
 </p>
